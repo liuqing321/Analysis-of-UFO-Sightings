@@ -9,6 +9,9 @@ The purpose of this project is to build a webpage that allow users to filter for
 The table in the webpage contains all the information in data.js. To filter the table by different criteria, enter the criteria information in the input boxes next to the table. 
 The placeholders in the input boxes have provided examples for different criteria. The input value must be in the same format as the placeholders. After entering all the criteria, hit "Enter" on the keyboard. The table will update accordingly. 
 
+![result](https://user-images.githubusercontent.com/88631769/141652605-9a7b3e7d-f242-41ae-8ec5-1c80181994ab.PNG)
+
+
 ## Summary 
 
 * Drawback of this webpage. 
